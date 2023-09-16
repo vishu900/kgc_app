@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490495259121",
+    "firebase_url": "https://bk-international.firebaseio.com",
+    "project_id": "bk-international",
+    "storage_bucket": "bk-international.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490495259121:android:93492c16a88cb8434f5450",
+        "android_client_info": {
+          "package_name": "com.dataproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490495259121-80qjk1okn8sqq9sn7q3i5rfr93qps3of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvLAlHBFCxTqPR9M_LbWODcTwJDlwt2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490495259121-80qjk1okn8sqq9sn7q3i5rfr93qps3of.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490495259121-osshrq79muop9sjokgc2pe1vgcq7fecc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pa.bkinternational.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+class selectedCompanyCode {
+  String code = "";
+}
